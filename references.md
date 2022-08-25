@@ -1,1 +1,6 @@
-This text conflicts with what was added for references.md in the main branch.
+my-resume
+This text conflicts with what was added in the main branch.
+# References
+
+
+main
